@@ -1,2 +1,2 @@
 # Wildhogs
-Wierd webpage for wildhogs
+Weird webpage for wildhogs
